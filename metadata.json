@@ -1,0 +1,6 @@
+{
+  "name": "GearShift ERP - Garage & Spare Parts Operating System",
+  "description": "Enterprise Garage CRM, Spare Parts Distribution, Real-time Scheduling, Multi-location Financials & Offline Sync Engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
